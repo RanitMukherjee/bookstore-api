@@ -11,7 +11,7 @@ async function bootstrap() {
   app.enableCors({
     origin: true,
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
-    allowedHeaders: ['Content-Type', 'Authorization'], // 👈 Explicitly allow Auth header
+    allowedHeaders: ['Content-Type', 'Authorization'],
   });
   
   const config = new DocumentBuilder()
