@@ -128,8 +128,6 @@ Content-Type: application/json
 }
 ```
 
----
-
 ## 📝 Notes
 
 - Swagger documentation available at `/api`
