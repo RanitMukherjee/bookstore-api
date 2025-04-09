@@ -125,7 +125,6 @@ Content-Type: application/json
   "category": "Programming",
   "price": 39.99,
   "rating": 4.7,
-  "publishedAt": "2020-06-01T00:00:00.000Z"
 }
 ```
 
