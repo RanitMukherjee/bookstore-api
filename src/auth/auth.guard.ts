@@ -19,7 +19,7 @@ import {
       }
       try {
         const payload = await this.jwtService.verifyAsync(token, {
-          secret: 'secretKey',
+          secret: 'hire-me',
         });
         request['user'] = payload;
       } catch {
