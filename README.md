@@ -1,4 +1,4 @@
-# bookstore REST API
+# bookstore-api
 
 A NestJS-based RESTful API for managing books with JWT authentication, PostgreSQL, and Prisma ORM.
 
