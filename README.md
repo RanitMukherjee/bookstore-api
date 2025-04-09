@@ -127,7 +127,7 @@ Content-Type: application/json
   "rating": 4.7,
 }
 ```
-
+---
 ## 📝 Notes
 
 - Swagger documentation available at `/api`
